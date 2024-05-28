@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ConfusedNewbie
+- 👋 Hi, I’m @DriftingMaze
 - 👀 I’m still learing a lot of new things about programming and computers in general as I have just started my journey.
 - 🌱 Currently I'm focusing in learning C++, DSA and web development.
 - 💞️ I’m looking forward to collaborating with you all in the coming days!
